@@ -7,3 +7,5 @@
 [Jupyter Lite](https://bwdoug.github.io/jupyterlite/lab/)
 
 [QR Code](media/qrcode.svg)
+
+[Network Graph: GOT](pages/gameofthrones.html)
