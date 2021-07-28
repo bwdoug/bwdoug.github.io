@@ -2,7 +2,7 @@
 
 [Google Form](https://forms.gle/GkCUe2YWN5sG1Qf87)
 
-[Presentation](https://github.com/bwdoug/jupyterlab/blob/main/presentation/presentation.slides.html)
+[Presentation](https://bwdoug.github.io/jupyterlab/presentation/presentation.slides.html#/)
 
 [Presentation.ipynb](https://github.com/bwdoug/jupyterlab/blob/main/presentation/presentation.ipynb)
 
